@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: bio
 title: bio
 
 
