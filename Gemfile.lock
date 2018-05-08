@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.org/
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
@@ -8,7 +8,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
+    eventmachine (1.2.5-x64-mingw32)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     jekyll (3.6.0)
@@ -51,13 +53,14 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (= 3.6.0)
   jekyll-livereload
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.4.4p296
 
 BUNDLED WITH
-   1.12.5
+   1.16.1
