@@ -19,12 +19,12 @@ layout: default
 ## Conference
 
 
-_[Cad'15](http://www.cadconferences.com/CAD15_47-52.pdf)_ – Proceedings of CAD'15, 2015: Moving Sequence Generation Based on Hungarian Method for Pick-and-Place Process: Wei Pan, Lujie Chen | pp 47-52, DOI: [10.14733/cadconfP.2015.47-52](http://sci-hub.tw/10.14733/cadconfP.2015.47-52), password: y%81c13!BD
-
-
 _[Cad'17](http://www.cadconferences.com/122-127_99.pdf)_ – Proceedings of CAD'17, 2017: Design of LEGO Assembly Transformation: 
 Wei Pan, Lujie Chen | pp 122-127. DOI: [10.14733/cadconfP.2017.122-127](http://sci-hub.tw/10.14733/cadconfP.2017.122-127).
 
+
+
+_[Cad'15](http://www.cadconferences.com/CAD15_47-52.pdf)_ – Proceedings of CAD'15, 2015: Moving Sequence Generation Based on Hungarian Method for Pick-and-Place Process: Wei Pan, Lujie Chen | pp 47-52, DOI: [10.14733/cadconfP.2015.47-52](http://sci-hub.tw/10.14733/cadconfP.2015.47-52), password: y%81c13!BD
 - - -
 
 
