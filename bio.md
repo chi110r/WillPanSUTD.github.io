@@ -4,8 +4,6 @@
 layout: default
 title: Will's CV
 
-pdf: true
-
 ---
 
 
