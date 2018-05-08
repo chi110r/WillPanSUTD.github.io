@@ -7,10 +7,7 @@ layout: default
 # Publications
 
 
-
 ## 写在前面
-
-
 
 
 说来惭愧，博士期间发表的文章寥寥无几。只希望未来无论是从事什么行业，能把写字的能力捡起来。所以，本着对未来的自己的要求和期待，我就不怕丢人的放出我的publication在这里，羞愧难当。
@@ -22,8 +19,7 @@ layout: default
 ## Conference
 
 
-
-_[Cad'15](http://www.cadconferences.com/CAD15_47-52.pdf)_ – Proceedings of CAD'15, 2015: Moving Sequence Generation Based on Hungarian Method for Pick-and-Place Process: Wei Pan, Lujie Chen | pp 47-52, DOI: [10.14733/cadconfP.2015.47-52](http://sci-hub.tw/10.14733/cadconfP.2015.47-52), password: y%81c13!BD  
+_[Cad'15](http://www.cadconferences.com/CAD15_47-52.pdf)_ – Proceedings of CAD'15, 2015: Moving Sequence Generation Based on Hungarian Method for Pick-and-Place Process: Wei Pan, Lujie Chen | pp 47-52, DOI: [10.14733/cadconfP.2015.47-52](http://sci-hub.tw/10.14733/cadconfP.2015.47-52), password: y%81c13!BD
 
 
 _[Cad'17](http://www.cadconferences.com/122-127_99.pdf)_ – Proceedings of CAD'17, 2017: Design of LEGO Assembly Transformation: 
