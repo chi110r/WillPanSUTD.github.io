@@ -1,12 +1,10 @@
----
 
 
 layout: default
 title: Will's CV
 
+
 ---
-
-
 
 Will __Pan__
 
@@ -42,6 +40,13 @@ Hangzhou, China
 ## Experience
 
 
+
+### __Shenzhen University__ `2017.10 - 2018.3`
+```
+Shenzhen, China
+```
+_Student Researcher_  
+Worked on frequency domain analysis such as Saak Transformation on Deep Learning Algorithms in the application of image style transfer, image super resolution, etc. 
 
 
 
