@@ -1,5 +1,5 @@
 ---
-title: Alex Payne
+title: Will Pan
 timezone: UTC
 collections:
   posts:
@@ -14,14 +14,16 @@ defaults:
     type: posts
   values:
     layout: post
-enforce_ssl: al3x.net
+enforce_ssl: willpan.xyz
 highlighter: rouge
 livereload: true
 lsi: false
 markdown: kramdown
 port: 3000
-url: https://al3x.net
+url: https://willpan.xyz
+gems: [jekyll-paginate] 
 owner:
-  name: Alex Payne
-  login: al3x
-  email: al3x@al3x.net
+  name: Will Pan
+  login: will
+  email: vpan@foxmail.com
+  
