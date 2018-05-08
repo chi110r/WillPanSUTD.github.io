@@ -5,17 +5,22 @@ layout: default
 
 # Publications
 
-## Essays
+## 写在前面
 
-_[Atlas Smug](https://www.jacobinmag.com/2014/06/atlas-smug/)_ – June 2014
-: An edited version of my post _[Dear Marc Andreessen](/2014/06/17/dear-marc-andreessen.html)_ for [Jacobin](https://www.jacobinmag.com/).
+说来惭愧，博士期间发表的文章寥寥无几。只希望未来无论是从事什么行业，能把写字的能力捡起来，所以，本着对未来的自己的要求和期待，我就不怕丢人的放出我的publication在这里，羞愧难当。
 
-_[Alone Together, Again](http://the-magazine.org/1/alone-together-again)_ – October 2012
-: A biographical reflection for the inaugural issue of [The Magazine](http://the-magazine.org), a digital bi-monthly.
+## Conference
+
+_[Cad'15](http://www.cadconferences.com/CAD15_47-52.pdf) – Proceedings of CAD'15, 2015: Moving Sequence Generation Based on Hungarian Method for Pick-and-Place Process Wei Pan, Lujie Chen | pp 47-52, password: y%81c13!BD
+DOI: [10.14733/cadconfP.2015.47-52](http://sci-hub.tw/10.14733/cadconfP.2015.47-52)
+
+_[Cad'17](http://www.cadconferences.com/122-127_99_.pdf)_ – Proceedings of CAD'17, 2017: Design of LEGO Assembly Transformation
+Wei Pan, Lujie Chen | pp 122-127. 
+DOI: [10.14733/cadconfP.2017.122-127](http://sci-hub.tw/10.14733/cadconfP.2017.122-127)
 
 - - -
 
-## Selected Press & Media
+## Journal
 
 _[Alex Payne, who helped build Twitter, returns to Portland](http://www.oregonlive.com/silicon-forest/index.ssf/2015/02/alex_payne_one_of_twitters_fir.html)_ – February 2015
 : A profile of me by [Mike Rogoway](http://connect.oregonlive.com/staff/MikeRogoway/posts.html), tech & business reporter for [The Oregonian/OregonLive](http://www.oregonlive.com/).
@@ -54,11 +59,5 @@ _[As Web Traffic Grows, Crashes Take Bigger Toll](http://www.nytimes.com/2008/07
 
 ## Books
 
-<a href="http://shop.oreilly.com/product/0636920033073.do">
-  <img src="https://covers.oreillystatic.com/images/0636920033073/cat.gif" />
-</a>
-
-<a href="http://oreilly.com/catalog/9780596155964">Programming Scala</a><br>
-with <a href="http://www.deanwampler.com/">Dean Wampler</a><br>
-<a href="http://oreilly.com/">O’Reilly</a>, 2009 (1st edition) and 2014 (2nd edition)
+Hopefully I can do it in the future... :)
  
