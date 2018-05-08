@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Will's CV
+title: bio
 
 
 ---
