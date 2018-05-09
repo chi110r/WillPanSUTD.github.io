@@ -21,8 +21,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://willpan.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/logo/logo-64.ico # path of site logo, e.g. "/images/logo.png"
 github_username:  WillPanSUTD
 timezone: UTC
+date_format: "%B %-d, %Y"
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
+mathjax: # MathJax equations, e.g. true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+# Liquid
+liquid:
+  error_mode: strict
+
 collections:
   posts:
     title: Posts
@@ -40,22 +55,44 @@ enforce_ssl: willpan.xyz
 highlighter: rouge
 livereload: true
 lsi: false
+theme: jekyll-theme-so-simple
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
 port: 3000
 url: https://willpan.xyz
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+# Site Author
+author:
+  name: Will Pan
+  picture:
+  email: vpan@foxmail.com
+  twitter:
+  links: http://willpan.xyz
+    - title:
+      url:
+      icon: /images/logo/logo-32.ico 
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

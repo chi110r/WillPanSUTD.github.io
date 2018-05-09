@@ -13,7 +13,7 @@ title: bio
 <a href="mailto:vpan@foxmail.com" style="margin-left:0.5em">vpan@foxmail.com</a> <i class="fa-phone" style="margin-left:1em"></i> +86 13538128621</p>
  
 
-# <font color=#FF0000>Edu</font>cation
+# Education
 
 
 
@@ -35,7 +35,7 @@ Zhejiang University, Hangzhou, China
 
 
 - - -
-# <font color=#FF0000> Exp</font>erience
+#  Experience
 
 
 
@@ -75,7 +75,7 @@ materials to enhance its efficiency
 
 ---
 
-# <font color=#FF0000>Teach</font>ing
+# Teaching
 
 
 
@@ -86,7 +86,7 @@ Teaching and Lab Assistant, __Digital Systems Lab (30.110)__ `SUTD, EPD,  2014`,
 
 ---
 
-# <font color=#FF0000>Hon</font>ors & <font color=#FF0000>Awa</font>rds
+# Honors & Awards
 
 
 
@@ -98,7 +98,7 @@ and Sports `ZJU,Hangzhou, 2009-2013` <br> Kuang-Chi Young Talents Internship  `K
 ---
 
 
-# <font color=#FF0000>Act</font>ivities
+# Activities
 ### Soccer & Badminton
 
 ### Volunteering English Teacher  `2015.6`

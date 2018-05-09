@@ -1,41 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--
+    So Simple Jekyll Theme 3.1.1
+    Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'zh-cmn-Hans' }}" class="no-js">
+  {% include head.html %}
 
-<head>
-  <meta charset="utf-8">
-  <!--<title> {% if page.title %} {{ page.title }} | {% endif %} bio</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-  <link href="media/foundation-icons/foundation-icons.css" type="text/css" rel="stylesheet" >-->
-  <meta content="The online writing of Will Pan" name="description">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="/favicon-32.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" type="text/css">
-  <link rel="stylesheet" href="/css/screen.css" type="text/css">
-  <link rel="alternate" type="application/atom+xml" title="Will Pan" href="/atom.xml">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
-  <script src="/js/helpers.js"></script>
-  <title>Will Pan &mdash; {{ page.title }}</title>
-</head>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+    {% include navigation.html %}
+    {% include masthead.html %}
 
-<body>
-  {% include nav.html %}
-  {% include hero.html %}
+    {{ content }}
 
-  <section class="section main-section">
-    <div class="container">
-      <div class="columns is-desktop">
-        <div class="column is-half is-offset-one-quarter">
-          <div class="content">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  {% include footer.html %}
-  {% include analytics.html %}
-</body>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
 
 </html>
