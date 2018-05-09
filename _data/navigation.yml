@@ -2,15 +2,21 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
+- title: About
+  url: /about/
+- title: Posts
+  url: /posts/
+- title: categories
+  url: /categories/
+- title: tags
+  url: /tags/
+- title: Bio
+  url: /bio/
+- title: Publications
+  url: /publications/
+- title: Albums
+  url: /albums/
+- title: search
+  url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

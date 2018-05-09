@@ -15,13 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Will Pan
 email: vpan@foxmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:  "A nobody in the world.<br>  A life meaning seeker."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://willpan.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /images/logo/logo-64.ico # path of site logo, e.g. "/images/logo.png"
+logo: /images/logo/logo-128.ico # path of site logo, e.g. "/images/logo.png"
 github_username:  WillPanSUTD
 timezone: UTC
 date_format: "%B %-d, %Y"
@@ -38,31 +35,21 @@ google_fonts:
 liquid:
   error_mode: strict
 
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-enforce_ssl: willpan.xyz
-highlighter: rouge
-livereload: true
-lsi: false
-theme: jekyll-theme-so-simple
 
 # Build settings
-permalink: /:categories/:title/
 markdown: kramdown
 port: 3000
 url: https://willpan.xyz
 
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search_full_content: false
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 plugins:
   - jekyll-seo-tag
@@ -70,6 +57,39 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+    
+ 
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+      
+enforce_ssl: willpan.xyz
+highlighter: rouge
+livereload: true
+lsi: false
+theme: jekyll-theme-so-simple  
+  
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -83,16 +103,31 @@ defaults:
 # Site Author
 author:
   name: Will Pan
-  picture:
+  picture: /images/profile.jpg
   email: vpan@foxmail.com
-  twitter:
-  links: http://willpan.xyz
-    - title:
-      url:
-      icon: /images/logo/logo-32.ico 
+  twitter: None
+  links: 
+  - title: Will's site
+    url: http://willpan.xyz
+    con: /images/logo/logo-32.ico 
+  - title: Instagram
+    url: https://instagram.com/willpan_willpan
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/WillPanSUTD
+    icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: Will's site
+    url: http://willpan.xyz
+    con: /images/logo/logo-32.ico 
+  - title: Instagram
+    url: https://instagram.com/willpan_willpan
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/WillPanSUTD
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

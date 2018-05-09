@@ -1,10 +1,7 @@
 ---
 title: Publications
-layout: default
+layout: page
 ---
-
-
-# Publications
 
 
 ## 写在前面
@@ -53,7 +50,7 @@ _[Nanotechnology](http://iopscience.iop.org/journal/0957-4484)_ – Plasmon-indu
 
 SUTD Ph.D. thesis: Sequencing in Transformation of Rasterized 3D Models, superviser: Lujie Chen, 2018
 
-浙江大学毕业论文：远场荧光超分辨随机光重建显微镜系统（STORM）研究, 指导教师：刘旭  教授,  匡翠方  副教授   2013
+浙江大学毕业论文：远场荧光超分辨随机光重建显微镜系统（STORM）研究, 指导教师：刘旭  教授,  匡翠方  副教授,  2013
 
 
 ---

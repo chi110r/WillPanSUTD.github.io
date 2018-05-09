@@ -1,6 +1,7 @@
 ---
-title: About
-layout: default
+title: About Will
+layout: post
+entries_layout: grid
 ---
 
 # About the author and this site
