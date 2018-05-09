@@ -1,6 +1,8 @@
 ---
 title: Publications
 layout: page
+permalink: /publications/
+show_excerpts: true
 ---
 
 

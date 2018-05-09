@@ -2,6 +2,8 @@
 
 layout: page
 title:  
+permalink: /bio/
+show_excerpts: true
 entries_layout: grid
 
 ---

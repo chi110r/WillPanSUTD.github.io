@@ -1,6 +1,8 @@
 ---
 title: About Will
 layout: post
+permalink: /about/
+show_excerpts: true
 entries_layout: grid
 ---
 
