@@ -6,38 +6,36 @@ title: bio
 
 ---
 
-#Will __Pan__
+# Will __Pan__
 
 
-<i class="fi-mail" style="margin-left:1em"></i>
-<a href="vpan@foxmail.com" style="margin-left:0.5em">vpan@foxmail.com</a>
- +86 13538128621
+<p align="center"> <i class="fi-mail" style="margin-left:1em"></i>
+<a href="mailto:vpan@foxmail.com" style="margin-left:0.5em">vpan@foxmail.com</a> <i class="fa-phone" style="margin-left:1em"></i> +86 13538128621</p>
+ 
 
-
-
-# Education
+# <font color=#FF0000>Edu</font>cation
 
 
 
-### __Singapore University of Technology and Design__ `2013.9 - 2018.3`
+### __SUTD__ `2013.9 - 2018.3`
 ```
-Singapore
+Singapore University of Technology and Design, Singapore
 ```
 - Ph.D. in Engineering Product Development - Major GPA: __4.6/5__, I know nobody cares. 
 - Superviser: Prof. Lujie Chen
 - Rapid Prototyping (e.g. 3D printing), Computer Aided Design, Algorithm and
 Optimization, Automation Design, Mesh Processing
 
-### __Zhejiang University__ `2009.9 - 2013.6`
+### __ZJU__ `2009.9 - 2013.6`
 ```
-Hangzhou, China
+Zhejiang University, Hangzhou, China
 ```
 - B.S. in Optical Engineering - Major GPA: __3.6 / 4.0__
-- Chu KoChen Honors College
+- Chu KoChen (CKC) Honors College
 
 
 - - -
-# Experience
+# <font color=#FF0000> Exp</font>erience
 
 
 
@@ -77,7 +75,7 @@ materials to enhance its efficiency
 
 ---
 
-# Teaching
+# <font color=#FF0000>Teach</font>ing
 
 
 
@@ -88,19 +86,26 @@ Teaching and Lab Assistant, __Digital Systems Lab (30.110)__ `SUTD, EPD,  2014`,
 
 ---
 
-# Honors & Awards
+# <font color=#FF0000>Hon</font>ors & <font color=#FF0000>Awa</font>rds
 
 
 
 President's Graduate Fellowship Award `SUTD, Singapore, 2013-2018` <br> 
 Scholarship for Academic Excellence `ZJU, Hangzhou, 2009-2013` <br> Outstanding Student, Excellence in Arts
-and Sports `ZJU,Hangzhou, 2009-2013` <br> Kuang-Chi Young Talents Internship  `KCI, Shenzhen, 2012`  
+and Sports `ZJU,Hangzhou, 2009-2013` <br> Kuang-Chi Young Talents Internship  `KCI, Shenzhen, 2012`
+
+  
 ---
-# Activities
+
+
+# <font color=#FF0000>Act</font>ivities
 ### Soccer & Badminton
 
 ### Volunteering English Teacher  `2015.6`
-```Thang Long Middle School, Hanoi, Vietam```<br>
+
+```
+Thang Long Middle School, Hanoi, Vietam
+```
 
 
 <br>
