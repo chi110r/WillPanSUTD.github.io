@@ -4,9 +4,10 @@
 
 # Todolist
 
-> Tag function for post  
-> Comment function  
+> Tag for post  
+> Comment   
 > Bilingual  
+> Album
 
 ## License
 
