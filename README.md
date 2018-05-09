@@ -1,6 +1,12 @@
 # About
 
-[My personal site](https://willpan.xyz). Uses [Jekyll](https://github.com/jekyll/jekyll) for static site generation.
+[My personal site](https://willpan.xyz) is based on the page of [Alex Payne](http://al3x/al3x.net). Uses [Jekyll](https://github.com/jekyll/jekyll) for static site generation.
+
+# Todolist
+
+> Tag function for post
+> Comment function
+> Bilingual
 
 ## License
 
