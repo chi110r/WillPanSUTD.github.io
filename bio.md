@@ -6,7 +6,7 @@ title: bio
 
 ---
 
-Will __Pan__
+#Will __Pan__
 
 
 <i class="fi-mail" style="margin-left:1em"></i>
@@ -15,11 +15,11 @@ Will __Pan__
 
 
 
-## Education
+# Education
 
 
 
-### __Singapore  University of Technology and Design__ `2013.9 - 2018.3`
+### __Singapore University of Technology and Design__ `2013.9 - 2018.3`
 ```
 Singapore
 ```
@@ -37,7 +37,7 @@ Hangzhou, China
 
 
 - - -
-## Experience
+# Experience
 
 
 
@@ -75,9 +75,9 @@ materials to enhance its efficiency
 
 
 
+---
 
-
-## Teaching
+# Teaching
 
 
 
@@ -86,18 +86,17 @@ Teaching and Lab Assistant, __Digital Systems Lab (30.110)__ `SUTD, EPD,  2014`,
 
 
 
+---
 
-
-
-## Honors & Awards
+# Honors & Awards
 
 
 
 President's Graduate Fellowship Award `SUTD, Singapore, 2013-2018` <br> 
 Scholarship for Academic Excellence `ZJU, Hangzhou, 2009-2013` <br> Outstanding Student, Excellence in Arts
 and Sports `ZJU,Hangzhou, 2009-2013` <br> Kuang-Chi Young Talents Internship  `KCI, Shenzhen, 2012`  
-
-## Activities
+---
+# Activities
 ### Soccer & Badminton
 
 ### Volunteering English Teacher  `2015.6`
