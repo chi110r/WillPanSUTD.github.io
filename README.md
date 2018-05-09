@@ -4,9 +4,9 @@
 
 # Todolist
 
-> Tag function for post
-> Comment function
-> Bilingual
+> Tag function for post  
+> Comment function  
+> Bilingual  
 
 ## License
 
