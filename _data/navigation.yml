@@ -18,5 +18,7 @@
   url: /albums/
 - title: search
   url: /search/
+- title: Impressum
+  url: impressum.html
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

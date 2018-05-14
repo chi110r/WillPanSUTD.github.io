@@ -1,12 +1,7 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Will Pan:
-  name: Will Pan
+Andreas Fies:
+  name: Andreas Fies
   picture: /images/profile.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
 

@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Will Pan
-email: vpan@foxmail.com
-description:  "A nobody in the world.<br>  A life meaning seeker."
+locale: de_DE
+destination: ../htdocs/
+title: Fiese Info
+email: fiese-info@fiese.info
+description:  "Fiese Infos.<br>  Von einem Fiesen Typ."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://willpan.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.fiese.info" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/logo/logo-128.ico # path of site logo, e.g. "/images/logo.png"
-github_username:  WillPanSUTD
-timezone: UTC
+github_username:  Chi110r
+timezone: Europa/Berlin
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -30,6 +32,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+google_analytics: "UA-104941731-3"
 
 # Liquid
 liquid:
@@ -39,7 +42,7 @@ liquid:
 # Build settings
 markdown: kramdown
 port: 3000
-url: https://willpan.xyz
+url: https://www.fiese.info
 
 paginate: 10
 paginate_path: /page:num/
@@ -84,7 +87,7 @@ defaults:
       comments: true
       share: true
       
-enforce_ssl: willpan.xyz
+enforce_ssl: www.fiese.info
 highlighter: rouge
 livereload: true
 lsi: false
@@ -102,31 +105,34 @@ defaults:
 
 # Site Author
 author:
-  name: Will Pan
+  name: Andreas Fies
   picture: /images/profile.jpg
-  email: vpan@foxmail.com
+  email: fiese-info@fiese.info
+  street: Jakobstraße 24
+  zip: 73760
+  city: Ostfildern
   twitter: None
   links: 
-  - title: Will's site
-    url: http://willpan.xyz
+  - title: Andy's site
+    url: http://www.fiese.info
     con: /images/logo/logo-32.ico 
   - title: Instagram
-    url: https://instagram.com/willpan_willpan
+    url: https://instagram.com/richardfies
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/WillPanSUTD
+    url: https://github.com/Chi110r
     icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Will's site
-    url: http://willpan.xyz
+    url: http://www.fiese.info
     con: /images/logo/logo-32.ico 
   - title: Instagram
-    url: https://instagram.com/willpan_willpan
+    url: https://instagram.com/richardfies
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/WillPanSUTD
+    url: https://github.com/Chi110r
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
