@@ -29,4 +29,16 @@
     <priority>0.5</priority>
   </url>
   {% endfor %}
+    <url>
+    <loc>https://www.fiese.info/impress.html</loc>
+    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://www.fiese.info/datenschutz.html</loc>
+    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

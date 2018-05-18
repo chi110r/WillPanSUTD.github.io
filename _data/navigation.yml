@@ -2,23 +2,21 @@
 
 - title: Home
   url: /
-- title: About
+- title: Über die Seite
   url: /about/
 - title: Posts
   url: /posts/
-- title: categories
+- title: Kategorien
   url: /categories/
 - title: tags
   url: /tags/
-- title: Bio
-  url: /bio/
-- title: Publications
-  url: /publications/
 - title: Albums
   url: /albums/
-- title: search
+- title: Suche
   url: /search/
 - title: Impressum
-  url: impressum.html
+  url: impress.html
+- title: Datenschutz
+  url: datenschutz.html
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

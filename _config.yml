@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+lang: de_DE
 locale: de_DE
 destination: ../htdocs/
 title: Fiese Info
@@ -113,7 +115,7 @@ author:
   city: Ostfildern
   twitter: None
   links: 
-  - title: Andy's site
+  - title: Fiese Infos
     url: http://www.fiese.info
     con: /images/logo/logo-32.ico 
   - title: Instagram
@@ -125,7 +127,7 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Will's site
+  - title: Fiese Infos
     url: http://www.fiese.info
     con: /images/logo/logo-32.ico 
   - title: Instagram

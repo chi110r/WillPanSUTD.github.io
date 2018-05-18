@@ -1,34 +1,22 @@
 ---
-title: About Will
+title: Über Fiese Info
 layout: post
 permalink: /about/
 show_excerpts: true
 entries_layout: grid
 ---
 
-# About the author and this site
+# Über die seite und den Autor
 
-I'm Will Pan (潘威)，这里将成为一个我写字的地方。
-
-曾经我是一个很爱写文字的人，然而不知道从什么时候开始，只知道很久了，一直都想着往前看，失去了回望过去的耐心和反省自己的能力。我觉得这样不好，我还是应该把这种能力要回来。并且，把过去没有能够做的事情尽量弥补回来。这里就当做我的个人网页，纯粹个人的。心得或是日记，展示或是简历，我觉得放在这里都挺不错的。
-
-过去一直在输入，输出甚少。很是惭愧，希望从今开始，做一个厚积薄发，而不是光积不发的人。
-
-也望能看到这些文字的诸位与我共勉。
-
-## 开始于2018年5月
-2018年的上半年，我完成了人生中两件重要的事情。一个是3月2日答辩通过，从SUTD博士毕业了，另一个是4月15日在深圳大鹏海边和我爱情长跑了7年半的未婚妻邢璐完成了婚礼。我们的好友本杰明Benjamin Petry还专门为我们的结合设计了一个logo，如左上角网页的图标所示。怎么说呢，两件大事对我而言完成得都不甚满意，留下了很多遗憾。无论如何，确实是双喜临门，对我而言，这更像一个契机，给了我另一个生命。
-
-尽管我不是一个结果论者，但愿未来的我看到这段文字，能够感受到这个结果给我的生命和生活带来改变。
-
+Hallo ich bin der Fies,
 
 
 - - -
 
-## Contact
-如果有任何问题和建议，欢迎与我联系。
+## Kontact
+Wenn Sie Fragen oder Anregungen haben, wenden Sie sich bitte an mich.
 
-Feel free to [email me](mailto:vpan@foxmail.com).
+Feel free to [email me](mailto:fiese-info@fiese.info).
 
 
 
