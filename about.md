@@ -16,7 +16,7 @@ Hallo ich bin der Fies,
 ## Kontact
 Wenn Sie Fragen oder Anregungen haben, wenden Sie sich bitte an mich.
 
-Feel free to [email me](mailto:fiese-info@fiese.info).
+Feel free to [email me](mailto:{{ site.email | encode_email }}).
 
 
 

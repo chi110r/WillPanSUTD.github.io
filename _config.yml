@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-lang: de_DE
+lang: de-DE-1996
 locale: de_DE
 destination: ../htdocs/
 title: Fiese Info
@@ -61,6 +61,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-umlauts
+  - jekyll-email-protect
+  - jekyll-maps 
+  - jekyll-youtube
+  - jekyll-pre-commit
+
+# pluginlinks
+# 
+# 
+# 
+# 
+# https://github.com/vwochnik/jekyll-email-protect
+# https://github.com/ayastreb/jekyll-maps
+# https://github.com/dommmel/jekyll-youtube
+# 
 
 
 # Collections
@@ -139,3 +154,7 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+# maps
+maps:
+  google:
+    api_key: AIzaSyDWbyUR4GMKUXE91l4HxEKxcXjrQFw9S2A

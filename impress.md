@@ -17,7 +17,7 @@ Vertreten durch:
 {{ site.author.name }}  
 
 Kontakt: {{ site.author.name }}  
-E-Mail: [{{ site.email }}](mailto:{{ site.email }})  
+E-Mail: [{{ site.email }}](mailto:{{ site.email | encode_email }})  
 
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 {{ site.author.name }}  
